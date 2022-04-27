@@ -1,0 +1,12 @@
+.button {
+    width: 100%;
+    background: darkblue;
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    transition: transform 0.5s;
+}
+
+button:hover{
+    transform: color;
+}
